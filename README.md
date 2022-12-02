@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ahmed Elmeligy
-CEO & Founder of Executable Inc. NET & JS Full-stack developer. Love to check out and learn about all the new technologies.
+CEO & Founder of Executable Inc. NET & JS Full-stack developer. Always learning, always teaching.
 
 ## Social Links
 [Aviyel](https://aviyel.com/@nullforest)
